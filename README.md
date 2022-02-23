@@ -13,9 +13,11 @@ To run just type below command in Colour Detection root folder:\
  $: roscore
  
  In another terminal run:\
+ run setup.bash\
  $: rosrun rand_node rand_pub_e
  
  In another terminal eun:\
+ run setup.bash\
  $: rosrun rand_node rand_sub_e
  
  
