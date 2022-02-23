@@ -5,8 +5,9 @@ To run just type below command in Colour Detection root folder:\
  
  
  # Rand_Node
- For Random Node just Type below commands in rand_node root folder:\
- Open a terminal in root folder and run:\
+ For Random Node just Type below commands:\
+ First copy rand_node folder and move it to your src folder ros workspace directory:\
+ Open a terminal in root folder (ros workspace) and run:\
  $: catkin_make
  
  In a new terminal run:\
