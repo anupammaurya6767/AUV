@@ -4,6 +4,13 @@ To run just type below command in Colour Detection root folder:\
  $: ./output
  
  
+ # Contour Detection
+To run just type below command in Contour Detection root folder:\
+ $: g++ main.cpp -o app `pkg-config --cflags --libs opencv`\
+ $: ./app
+ 
+ 
+ 
  # Rand_Node
  For Random Node just Type below commands:\
  First copy rand_node folder and move it to your src folder ros workspace directory:\
