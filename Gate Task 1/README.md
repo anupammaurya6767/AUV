@@ -1,4 +1,6 @@
 # To run the code :
+
+## The file is main.cpp :
 ``` 
   $ g++ main.cpp -o output `pkg-config --cflags --libs opencv`
   $ ./output
