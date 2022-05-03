@@ -29,7 +29,7 @@ Scalar upper(hmax,smax,vmax);
  imshow("Image",img);
  imshow("Image hsv",imgHSV);
  imshow("Image mask",mask);
- waitKey(0);
+ waitKey(1);
 }
  return 0;
 }
