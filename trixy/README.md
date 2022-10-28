@@ -3,3 +3,7 @@
   roslaunch trixy world.launch
   
 ```
+
+# Output:
+
+
