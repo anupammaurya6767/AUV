@@ -1,7 +1,0 @@
-<launch>
-<arg  name="bgb" default="0" />
-<param name="turtlesim/background_b" value="$(arg bgb)" />
-<rosparam command="load" file="/home/tanjirou/catkin_ws/src/parameters_basics_p/config/bgcolor_f.yaml" />
-<node pkg="turtlesim" type="turtlesim_node" name="turtlesim" />
-
-</launch>
